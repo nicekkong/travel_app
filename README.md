@@ -10,6 +10,3 @@
   <pre><code>
         < property name="LOG_HOME" value="{로컬 환경에 실제 존재하는 경로}" / >
   </code></pre>
-  
-  
-  
