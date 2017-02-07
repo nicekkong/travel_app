@@ -1,6 +1,7 @@
 # 여행정보 제공 어플리케이션
 
 - 로컬 환경 설정
+
   1) 실행 환경 다음 변수 추가
 
 ``spring.active.profiles=local``
