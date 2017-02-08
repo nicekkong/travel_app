@@ -47,7 +47,7 @@
        </appender>
 
        <!-- Send logs to both console and file audit -->
-       <logger name="com.je.webapp" level="INFO">
+       <logger name="com.je.travel" level="INFO">
               <appender-ref ref="FILE_DEBUG"/>
        </logger>
 
